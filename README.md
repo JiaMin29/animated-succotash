@@ -2,4 +2,4 @@
 GITWithGit
 Hello world!
 
-+ Just trying out
++ Hey there!
